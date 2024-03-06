@@ -22,8 +22,8 @@ To run the app locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
-4. Start the development server using `npm start`.
-5. Open your web browser and visit `http://localhost:3000` to view the app.
+4. Start the development server using `npm run dev`.
+
 
 ### Usage
 
