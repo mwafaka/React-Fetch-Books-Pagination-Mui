@@ -33,8 +33,5 @@ To run the app locally, follow these steps:
 
 ### Credits
 
-This app was created by [Your Name] as a part of [Project/Assignment Name]. It utilizes the Open Library API for fetching book data.
+This app was created by Mofak. It utilizes the Open Library API for fetching book data.
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
